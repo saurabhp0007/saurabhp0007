@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=IOS+Devloper,;Seeking+For+A+Good+Opportunity,;Software+Developer,;Learner/Researcher..<3"></a>
 </p>
 
-## <picture><img src = "https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/saurabhp0007/saurabhp0007/blob/main/assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif"></picture>
 
 <br>
